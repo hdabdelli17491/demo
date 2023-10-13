@@ -1,2 +1,2 @@
 # demo
-min projet en php symfony 
+mini projet en php symfony 
